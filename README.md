@@ -45,3 +45,6 @@ The **Amazon Sales Dashboard 2024** is an interactive Excel-based dashboard desi
 * State-level distribution shows **variability in regional demand**, guiding marketing and supply chain strategies.
 
 ✨ This dashboard acts as a **business intelligence tool** to help management quickly identify trends, strengths, and growth opportunities.
+
+<img width="1280" height="612" alt="excel_snap" src="https://github.com/user-attachments/assets/fc0e4877-e3f5-400f-9b35-c44e1c98b25c" />
+
